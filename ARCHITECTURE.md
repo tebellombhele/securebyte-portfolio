@@ -352,7 +352,7 @@ Every route accepting a request body validates it against a **Zod schema** befor
 
 ---
 
-**SecureByte Consulting (Pty) Ltd** · Gauteng, South Africa
+**SecureByte Consulting** · Gauteng, South Africa
 
 *[Tebello Mbhele](https://github.com/tebellombhele) — Founding Engineer*
 
