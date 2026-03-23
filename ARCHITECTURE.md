@@ -359,4 +359,3 @@ Every route accepting a request body validates it against a **Zod schema** befor
 *This document reflects architecture as of Q1 2026. It will be updated as the system evolves.*
 
 </div>
-
