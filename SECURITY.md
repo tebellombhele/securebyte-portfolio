@@ -317,7 +317,7 @@ addresses it — not as a patch, but as a structural property of the system.
 
 ---
 
-**SecureByte Consulting (Pty) Ltd** · Gauteng, South Africa
+**SecureByte Consulting** · Gauteng, South Africa
 
 Security contact: [securebyte.consulting@gmail.com](mailto:securebyte.consulting@gmail.com)
 
