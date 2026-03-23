@@ -489,12 +489,12 @@ Building SecureByte as a solo founding engineer across ~11 months forced a set o
 
 ---
 
-**SecureByte Consulting (Pty) Ltd** · Gauteng, South Africa
+**SecureByte Consulting** · Gauteng, South Africa
 
-*Built by [Tebello Mbhele](https://github.com/TibiMbhele) — Founding Engineer*
+*Built by [Tebello Mbhele](https://github.com/tebellombhele) — Founding Engineer*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/tebello-mbhele)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/tebellombhele)
 
 *This repository documents architecture and engineering decisions only. No proprietary source code is published here.*
 
